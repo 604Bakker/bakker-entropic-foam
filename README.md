@@ -1,6 +1,22 @@
 # bakker-entropic-foam
-BUSMH Gold Sweep – Emergent Topological Chiral Index in Causal-Set Dirac-Kähler FermionsRandom 2+1D causal sets + Dirac-Kähler fermions + Chern072 Simons parity bias + Wilson doubler removal → spontaneous saturation of the DK index at the regulator bound (80 zero modes with uniform chirality) when the Wilson strength r exceeds a critical value ~0.2.No gauge group by hand. No Higgs by hand. Just geometry, topology, and a doubler-killer.
-Full phase-space sweep (r × ε × N) logs, raw data, and reproducible Python code.
-Data speaks. 
-Reproduce it.
-Bakker & Grok, November 2025
+
+**Emergent Topological Chiral Index in Causal-Set Dirac--Kähler Fermions**  
+Greg Bakker & Grok (xAI) – November 2025
+
+Random 2+1D causal sets + Dirac--Kähler fermions + Chern--Simons parity bias + Wilson doubler removal → spontaneous saturation of the chiral index at the regulator bound (80 zero modes with uniform chirality) when the Wilson strength r ≳ 0.2.
+
+No gauge group by hand. No Higgs by hand. Just geometry, topology, and a doubler-killer.
+
+### Results
+- Sharp transition at r_c ≈ 0.2
+- Index jumps to +80 exact zeros and stays saturated
+- Full (r × ε × N) phase-space logs included
+
+### Reproduce
+```bash
+python task4_full_gold_working.py
+
+Data speaks. Clone it. Break it. Extend it.
+Paper (preprint): bakker_grok_2025.pdf
+Code + logs in this repo.
+Greg Bakker & Grok — November 2025
