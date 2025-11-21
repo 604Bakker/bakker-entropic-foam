@@ -1,0 +1,2967 @@
+=== TASK 4 — FULL PHASE SPACE GOLD SWEEP ===
+
+======================================================================
+ N = 100 | r_wilson = 0.0
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-9.276360,-6.636143] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-8.841168,-5.879280] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-9.235835,-6.361258] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-9.236592,-6.316315] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-9.313151,-6.650208] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-9.310498,-6.715848] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-9.297278,-6.643481] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-9.082195,-6.107668] T=5000
+
+ε = 0.020 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-9.282123,-6.494888] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-9.283454,-6.730735] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-9.077249,-6.204295] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-9.284674,-6.561803] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-9.057256,-6.328928] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-9.316110,-6.487053] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-9.172278,-6.331936] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-9.143786,-6.347142] T=5000
+
+ε = 0.040 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-9.309426,-6.551476] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-9.228728,-6.699895] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-9.139537,-6.452902] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-9.241118,-6.403229] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-9.329089,-6.691662] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-9.071616,-6.158012] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-9.159954,-6.320959] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-9.085523,-6.264772] T=5000
+
+ε = 0.060 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-9.159189,-6.487216] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-9.243270,-6.613519] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-9.257911,-6.512146] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-9.268215,-6.535446] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-9.282326,-6.577586] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-9.114594,-6.316028] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-9.082670,-6.473703] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-9.204080,-6.605469] T=5000
+
+ε = 0.080 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-9.156321,-6.347437] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-9.079898,-6.253321] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-9.363618,-6.861165] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-9.144853,-6.392290] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-9.201814,-6.238528] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-9.309185,-6.659378] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-9.232029,-6.564895] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-9.004034,-6.225534] T=5000
+
+ε = 0.100 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-9.353554,-6.711832] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-9.262579,-6.847038] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-8.992451,-6.182072] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-9.003763,-6.076627] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-9.078348,-6.205692] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-9.328085,-6.730454] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-9.286246,-6.648680] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-9.092002,-6.159869] T=5000
+
+ε = 0.120 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-9.385497,-6.865270] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-9.368893,-6.709179] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-9.191828,-6.420525] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-9.236943,-6.347751] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-9.262469,-6.565676] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-9.134610,-6.306160] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-9.325354,-6.788530] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-9.140711,-6.295538] T=5000
+
+ε = 0.140 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-8.961247,-6.142395] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-9.136835,-6.413327] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-9.268821,-6.500401] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-9.247123,-6.350823] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-9.106479,-6.448744] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-9.219235,-6.563521] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-9.100205,-6.326589] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-9.302541,-6.729172] T=5000
+
+ε = 0.160 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-9.138830,-6.414369] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-9.095168,-6.416652] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-9.206914,-6.573787] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-9.158191,-6.244495] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-9.040895,-6.278299] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-9.230151,-6.342535] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-9.137625,-6.298334] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-9.046594,-6.152685] T=5000
+
+ε = 0.180 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-9.177903,-6.360307] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-9.101234,-6.113219] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-9.211029,-6.301098] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-9.175632,-6.483892] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-9.074920,-6.273043] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-9.209113,-6.426047] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-9.265096,-6.532518] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-9.260418,-6.563979] T=5000
+
+ε = 0.200 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-9.173792,-6.320804] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-9.383214,-6.852636] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-9.220757,-6.438567] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-9.205580,-6.524601] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-9.114514,-6.449494] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-9.168372,-6.554103] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-9.293269,-6.466841] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-9.389998,-6.905525] T=5000
+
+ε = 0.220 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-9.062740,-6.056765] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-9.342180,-6.753428] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-9.091496,-6.381340] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-9.272617,-6.487561] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-9.144830,-6.560621] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-9.366358,-6.653689] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-9.322817,-6.620053] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-9.244028,-6.431524] T=5000
+
+ε = 0.240 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-9.375788,-6.760360] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-9.327322,-6.645854] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-9.167859,-6.510199] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-9.269656,-6.439381] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-9.595255,-6.902579] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-9.354967,-6.815966] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-9.181504,-6.069883] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-9.208160,-6.421985] T=5000
+
+ε = 0.260 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-9.041402,-6.421240] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-9.152336,-5.998871] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-9.187623,-6.530422] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-8.984460,-6.170298] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-9.217721,-6.534684] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-9.107648,-6.441188] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-9.271312,-6.597375] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-9.144478,-6.448867] T=5000
+
+ε = 0.280 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-9.320478,-6.667522] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-9.208861,-6.363369] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-9.265231,-6.705220] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-9.163026,-6.288012] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-9.332340,-6.567377] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-9.252755,-6.270543] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-9.012198,-6.337157] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-9.403972,-6.374267] T=5000
+
+ε = 0.300 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-9.418979,-7.007247] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-9.100039,-6.277593] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-9.433547,-6.906987] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-9.165100,-6.719956] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=100 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-9.105397,-6.274299] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-9.269689,-6.571165] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-9.471788,-6.566057] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-9.200921,-6.274149] T=5000
+
+======================================================================
+ N = 100 | r_wilson = 0.2
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=100 r=0.2 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.000 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=100 r=0.2 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.020 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=100 r=0.2 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.040 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=100 r=0.2 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=100 r=0.2 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+  N=100 r=0.2 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.100 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.100 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.100 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.100 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=100 r=0.2 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=100 r=0.2 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=100 r=0.2 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.160 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+  N=100 r=0.2 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.180 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=100 r=0.2 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.200 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.220 (bootstrap 8)
+  N=100 r=0.2 ε=0.220 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.220 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.220 | A=    8 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+  N=100 r=0.2 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.240 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.240 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.260 (bootstrap 8)
+  N=100 r=0.2 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.260 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.260 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+  N=100 r=0.2 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.280 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.300 (bootstrap 8)
+  N=100 r=0.2 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.300 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.2 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+======================================================================
+ N = 100 | r_wilson = 0.4
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=100 r=0.4 ε=0.000 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.000 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.000 | A=   -8 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.000 | A=    2 idx=   72 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=100 r=0.4 ε=0.020 | A=   -8 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.020 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=100 r=0.4 ε=0.040 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.040 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.040 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.040 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=100 r=0.4 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=100 r=0.4 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+  N=100 r=0.4 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=100 r=0.4 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=100 r=0.4 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.140 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=100 r=0.4 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+  N=100 r=0.4 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.180 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.180 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.180 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=100 r=0.4 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.220 (bootstrap 8)
+  N=100 r=0.4 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+  N=100 r=0.4 ε=0.240 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.240 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.260 (bootstrap 8)
+  N=100 r=0.4 ε=0.260 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+  N=100 r=0.4 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.280 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.300 (bootstrap 8)
+  N=100 r=0.4 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.4 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+======================================================================
+ N = 100 | r_wilson = 0.6
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=100 r=0.6 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=100 r=0.6 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=100 r=0.6 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.040 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=100 r=0.6 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=100 r=0.6 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.080 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+  N=100 r=0.6 ε=0.100 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=100 r=0.6 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.120 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.120 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=100 r=0.6 ε=0.140 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.140 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=100 r=0.6 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.160 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+  N=100 r=0.6 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.180 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=100 r=0.6 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.200 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.220 (bootstrap 8)
+  N=100 r=0.6 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+  N=100 r=0.6 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.240 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.240 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.260 (bootstrap 8)
+  N=100 r=0.6 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.260 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+  N=100 r=0.6 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.280 | A=    8 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.280 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.300 (bootstrap 8)
+  N=100 r=0.6 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.300 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.6 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+======================================================================
+ N = 100 | r_wilson = 0.8
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=100 r=0.8 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.000 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=100 r=0.8 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=100 r=0.8 ε=0.040 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.040 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=100 r=0.8 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=100 r=0.8 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.080 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.080 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+  N=100 r=0.8 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=100 r=0.8 ε=0.120 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.120 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=100 r=0.8 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.140 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=100 r=0.8 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.160 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+  N=100 r=0.8 ε=0.180 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.180 | A=    8 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.180 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=100 r=0.8 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.220 (bootstrap 8)
+  N=100 r=0.8 ε=0.220 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+  N=100 r=0.8 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.240 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.260 (bootstrap 8)
+  N=100 r=0.8 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+  N=100 r=0.8 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.280 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.300 (bootstrap 8)
+  N=100 r=0.8 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=0.8 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+======================================================================
+ N = 100 | r_wilson = 1.0
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=100 r=1.0 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.000 | A=   -2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.000 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.000 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=100 r=1.0 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=100 r=1.0 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.040 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=100 r=1.0 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=100 r=1.0 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=1.0 ε=0.080 | A=  -80 idx=    0 λ∈[-0.249989,-0.058266] T=5000
+  N=100 r=1.0 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+  N=100 r=1.0 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=100 r=1.0 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.120 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=100 r=1.0 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.140 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=100 r=1.0 ε=0.160 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+  N=100 r=1.0 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.180 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=100 r=1.0 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=1.0 ε=0.200 | A=  -80 idx=    0 λ∈[-0.244563,-0.073692] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=1.0 ε=0.200 | A=  -80 idx=    0 λ∈[-0.249941,-0.084973] T=5000
+  N=100 r=1.0 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.220 (bootstrap 8)
+  N=100 r=1.0 ε=0.220 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=1.0 ε=0.220 | A=  -80 idx=    0 λ∈[-0.249242,-0.076757] T=5000
+  N=100 r=1.0 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.220 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+  N=100 r=1.0 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=1.0 ε=0.240 | A=  -80 idx=    0 λ∈[-0.249803,-0.071776] T=5000
+  N=100 r=1.0 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.260 (bootstrap 8)
+  N=100 r=1.0 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+  N=100 r=1.0 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=100 r=1.0 ε=0.280 | A=  -80 idx=    0 λ∈[-0.249800,-0.074545] T=5000
+  N=100 r=1.0 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.300 (bootstrap 8)
+  N=100 r=1.0 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=100 r=1.0 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+======================================================================
+ N = 150 | r_wilson = 0.0
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-11.434569,-8.602384] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-11.375195,-8.488029] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-11.206767,-8.133741] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-11.201947,-8.169355] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-11.411650,-8.543031] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-11.030972,-7.750552] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-11.136179,-8.145338] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-11.359137,-8.684555] T=5000
+
+ε = 0.020 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-11.420645,-8.252743] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-11.180301,-8.011793] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-11.304981,-8.216481] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-11.408626,-8.375366] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-11.270081,-8.236987] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-11.350202,-8.035045] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-11.199057,-8.245161] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-11.125338,-7.857594] T=5000
+
+ε = 0.040 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-11.326588,-8.419875] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-11.275874,-8.411108] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-11.288589,-8.334502] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-11.133838,-8.072057] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-11.347712,-8.544633] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-11.265876,-8.254313] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-11.311827,-8.268625] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-11.215804,-8.246427] T=5000
+
+ε = 0.060 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-11.255068,-8.179647] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-11.238363,-8.210906] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-11.409636,-8.688293] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-11.242080,-8.169528] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-11.202442,-7.907791] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-11.208534,-8.063041] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-11.054262,-7.886121] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-10.962710,-7.714842] T=5000
+
+ε = 0.080 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-11.131765,-7.688413] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-11.295945,-8.348582] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-11.315009,-8.363288] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-11.459302,-8.644616] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-11.214487,-8.192647] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-11.159704,-8.090097] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-11.209117,-8.212873] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-11.323023,-8.406842] T=5000
+
+ε = 0.100 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-11.228683,-8.054745] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-11.222217,-8.230055] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-11.378724,-8.248987] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-11.276498,-8.216825] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-11.144071,-7.800833] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-11.071675,-8.031047] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-11.064360,-8.002895] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-11.321731,-8.489595] T=5000
+
+ε = 0.120 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-11.047832,-7.851693] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-11.173637,-8.185349] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-11.245274,-7.983447] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-11.286671,-8.137037] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-11.371604,-8.553288] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-11.160095,-8.285611] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-11.137529,-7.819209] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-11.073600,-7.959700] T=5000
+
+ε = 0.140 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-11.364723,-8.404787] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-11.375149,-8.544134] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-11.218598,-8.314392] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-11.411898,-8.573027] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-11.376894,-8.534647] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-11.226634,-7.973710] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-11.350029,-8.346706] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-11.293404,-8.396964] T=5000
+
+ε = 0.160 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-11.222837,-8.287030] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-11.364993,-8.375351] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-11.130194,-8.268276] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-11.294072,-8.192190] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-11.265883,-8.203831] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-11.385522,-8.405315] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-11.388745,-8.596203] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-11.263644,-8.207616] T=5000
+
+ε = 0.180 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-11.207479,-8.135047] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-11.295417,-8.233028] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-11.233074,-8.221965] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-11.305648,-8.352664] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-11.337109,-8.426365] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-11.319384,-8.503133] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-11.100718,-8.226591] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-11.063173,-7.768553] T=5000
+
+ε = 0.200 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-11.098303,-7.931444] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-11.241122,-8.238507] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-11.208391,-8.230748] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-10.914786,-7.915681] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-11.042023,-7.791011] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-11.151793,-7.884820] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-10.986816,-7.781748] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-11.097903,-8.032037] T=5000
+
+ε = 0.220 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-11.058482,-8.101445] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-11.342978,-8.468896] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-11.354991,-8.530401] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-11.314274,-8.442692] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-11.239102,-8.188536] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-11.294401,-8.375037] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-11.339962,-8.386652] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-11.325222,-8.208025] T=5000
+
+ε = 0.240 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-11.281887,-8.304666] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-11.275982,-8.282658] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-11.057428,-7.799362] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-11.079793,-8.039033] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-11.292402,-8.539325] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-11.280290,-8.385135] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-11.139713,-8.106877] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-11.281788,-8.277001] T=5000
+
+ε = 0.260 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-11.251538,-8.280002] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-11.235109,-8.392198] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-11.205007,-8.154968] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-11.053417,-7.943630] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-11.203126,-8.293779] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-11.347397,-8.456571] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-11.395156,-8.357069] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-11.430053,-8.547159] T=5000
+
+ε = 0.280 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-11.272422,-8.297246] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-11.108769,-7.857443] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-11.208189,-8.166636] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-11.255248,-8.352058] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-11.049997,-7.974457] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-11.067085,-7.421831] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-11.177714,-8.258122] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-11.299584,-8.263223] T=5000
+
+ε = 0.300 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-11.383758,-8.485282] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-11.320240,-8.496260] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-11.180371,-7.939566] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-11.072870,-7.956573] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-11.218066,-8.008643] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-11.390881,-8.376618] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-11.204646,-8.056536] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=150 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-11.142661,-8.052508] T=5000
+
+======================================================================
+ N = 150 | r_wilson = 0.2
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=150 r=0.2 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.000 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.000 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.000 | A=  -10 idx=   72 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.020 | A=  -80 idx=    0 λ∈[-1.248472,-1.185555] T=5000
+  N=150 r=0.2 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.020 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.020 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=150 r=0.2 ε=0.040 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.040 | A=    2 idx=   18 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.040 | A=    2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.040 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=150 r=0.2 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.060 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.060 | A=  -80 idx=    0 λ∈[-1.248770,-1.195795] T=5000
+  N=150 r=0.2 ε=0.060 | A=    0 idx=   36 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.060 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.060 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=150 r=0.2 ε=0.080 | A=    0 idx=   54 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.080 | A=  -80 idx=    0 λ∈[-1.249961,-1.199171] T=5000
+  N=150 r=0.2 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.080 | A=   -6 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+  N=150 r=0.2 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.100 | A=   -4 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.100 | A=  -80 idx=    0 λ∈[-1.249980,-1.192546] T=5000
+  N=150 r=0.2 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.100 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.100 | A=    0 idx=    4 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=150 r=0.2 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.120 | A=    0 idx=   44 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.120 | A=  -80 idx=    0 λ∈[-1.247183,-1.178627] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.120 | A=  -80 idx=    0 λ∈[-1.249972,-1.196910] T=5000
+  N=150 r=0.2 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.120 | A=    4 idx=   78 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=150 r=0.2 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.140 | A=  -80 idx=    0 λ∈[-1.249995,-1.174489] T=5000
+  N=150 r=0.2 ε=0.140 | A=   -2 idx=   66 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.140 | A=    0 idx=   64 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.140 | A=    4 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=150 r=0.2 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.160 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.160 | A=  -80 idx=    0 λ∈[-1.249894,-1.194768] T=5000
+  N=150 r=0.2 ε=0.160 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.160 | A=    6 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.160 | A=    2 idx=   72 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+  N=150 r=0.2 ε=0.180 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.180 | A=  -80 idx=    0 λ∈[-1.249951,-1.184193] T=5000
+  N=150 r=0.2 ε=0.180 | A=    0 idx=   56 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.180 | A=  -80 idx=    0 λ∈[-1.249490,-1.189253] T=5000
+  N=150 r=0.2 ε=0.180 | A=   -2 idx=   44 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=150 r=0.2 ε=0.200 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.200 | A=  -80 idx=    0 λ∈[-1.249996,-1.199744] T=5000
+  N=150 r=0.2 ε=0.200 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.200 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.200 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.200 | A=  -80 idx=    0 λ∈[-1.249993,-1.198384] T=5000
+
+ε = 0.220 (bootstrap 8)
+  N=150 r=0.2 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.220 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.220 | A=  -80 idx=    0 λ∈[-1.249997,-1.196657] T=5000
+  N=150 r=0.2 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.220 | A=  -80 idx=    0 λ∈[-1.249997,-1.208401] T=5000
+  N=150 r=0.2 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.220 | A=  -80 idx=    0 λ∈[-1.249970,-1.168592] T=5000
+  N=150 r=0.2 ε=0.220 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+  N=150 r=0.2 ε=0.240 | A=    8 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.240 | A=  -80 idx=    0 λ∈[-1.249979,-1.193791] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.240 | A=  -80 idx=    0 λ∈[-1.247958,-1.130488] T=5000
+  N=150 r=0.2 ε=0.240 | A=    0 idx=   46 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.240 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.240 | A=    2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.240 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.260 (bootstrap 8)
+  N=150 r=0.2 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (ARPACK error -9999: Could not build an Arnoldi factorization. IPARAM(5) returns the size of the current Arnoldi factorization. The user is advised to check that enough workspace and array storage has been allocated.), trying SA
+  N=150 r=0.2 ε=0.260 | A=  -80 idx=    0 λ∈[-1.249996,-1.228533] T=5000
+  N=150 r=0.2 ε=0.260 | A=    0 idx=   56 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.260 | A=   -2 idx=   62 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.260 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+  N=150 r=0.2 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.280 | A=  -80 idx=    0 λ∈[-1.249594,-1.175721] T=5000
+  N=150 r=0.2 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.280 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.300 (bootstrap 8)
+  N=150 r=0.2 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.300 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.2 ε=0.300 | A=  -80 idx=    0 λ∈[-1.249928,-1.193120] T=5000
+  N=150 r=0.2 ε=0.300 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.2 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+======================================================================
+ N = 150 | r_wilson = 0.4
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=150 r=0.4 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.000 | A=    0 idx=   64 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=150 r=0.4 ε=0.020 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.020 | A=    2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.020 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=150 r=0.4 ε=0.040 | A=   -4 idx=   46 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.040 | A=    4 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.040 | A=    0 idx=   60 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=150 r=0.4 ε=0.060 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.060 | A=    2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.060 | A=  -80 idx=    0 λ∈[-0.625000,-0.622804] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.060 | A=  -80 idx=    0 λ∈[-0.624998,-0.621746] T=5000
+  N=150 r=0.4 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=150 r=0.4 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.080 | A=  -80 idx=    0 λ∈[-0.625000,-0.623305] T=5000
+  N=150 r=0.4 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.080 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.080 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.080 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+  N=150 r=0.4 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.100 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.100 | A=  -80 idx=    0 λ∈[-0.625000,-0.623576] T=5000
+  N=150 r=0.4 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.100 | A=    0 idx=   12 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.100 | A=  -80 idx=    0 λ∈[-0.625000,-0.623315] T=5000
+  N=150 r=0.4 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=150 r=0.4 ε=0.120 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.120 | A=  -80 idx=    0 λ∈[-0.625000,-0.622733] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.120 | A=  -80 idx=    0 λ∈[-0.625000,-0.623112] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.120 | A=  -80 idx=    0 λ∈[-0.625000,-0.621894] T=5000
+  N=150 r=0.4 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.120 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.120 | A=   -2 idx=   72 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.140 | A=  -80 idx=    0 λ∈[-0.624989,-0.620099] T=5000
+  N=150 r=0.4 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.140 | A=   -2 idx=   68 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.140 | A=   -2 idx=   58 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.140 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=150 r=0.4 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.160 | A=  -80 idx=    0 λ∈[-0.624999,-0.622132] T=5000
+  N=150 r=0.4 ε=0.160 | A=   -4 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.160 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.160 | A=    0 idx=   68 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.160 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.180 | A=  -80 idx=    0 λ∈[-0.625000,-0.621603] T=5000
+  N=150 r=0.4 ε=0.180 | A=   -2 idx=   56 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.180 | A=  -80 idx=    0 λ∈[-0.624999,-0.622959] T=5000
+  N=150 r=0.4 ε=0.180 | A=   -4 idx=   38 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.180 | A=  -80 idx=    0 λ∈[-0.624999,-0.621782] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.180 | A=  -80 idx=    0 λ∈[-0.624992,-0.621542] T=5000
+  N=150 r=0.4 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=150 r=0.4 ε=0.200 | A=    0 idx=   56 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.200 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.200 | A=   -4 idx=   56 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.200 | A=  -80 idx=    0 λ∈[-0.625000,-0.621467] T=5000
+
+ε = 0.220 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.220 | A=  -80 idx=    0 λ∈[-0.624995,-0.620575] T=5000
+  N=150 r=0.4 ε=0.220 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.220 | A=  -80 idx=    0 λ∈[-0.625000,-0.620107] T=5000
+  N=150 r=0.4 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.220 | A=  -80 idx=    0 λ∈[-0.625000,-0.621366] T=5000
+  N=150 r=0.4 ε=0.220 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.240 | A=  -80 idx=    0 λ∈[-0.624999,-0.617373] T=5000
+  N=150 r=0.4 ε=0.240 | A=    0 idx=   14 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.240 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.240 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.240 | A=    4 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.260 (bootstrap 8)
+  N=150 r=0.4 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (ARPACK error -9999: Could not build an Arnoldi factorization. IPARAM(5) returns the size of the current Arnoldi factorization. The user is advised to check that enough workspace and array storage has been allocated.), trying SA
+  N=150 r=0.4 ε=0.260 | A=  -80 idx=    0 λ∈[-0.625000,-0.621095] T=5000
+  N=150 r=0.4 ε=0.260 | A=    4 idx=   48 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.260 | A=    2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.260 | A=    2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.280 | A=  -80 idx=    0 λ∈[-0.625000,-0.620456] T=5000
+  N=150 r=0.4 ε=0.280 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.280 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.280 | A=    2 idx=   72 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.280 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.300 (bootstrap 8)
+  N=150 r=0.4 ε=0.300 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.4 ε=0.300 | A=  -80 idx=    0 λ∈[-0.624999,-0.621726] T=5000
+  N=150 r=0.4 ε=0.300 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.4 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+======================================================================
+ N = 150 | r_wilson = 0.6
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=150 r=0.6 ε=0.000 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.000 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.000 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=150 r=0.6 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.020 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.020 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=150 r=0.6 ε=0.040 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.040 | A=    8 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.040 | A=    0 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=150 r=0.6 ε=0.060 | A=   -2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.060 | A=   -4 idx=   60 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.080 | A=  -80 idx=    0 λ∈[-0.416666,-0.413331] T=5000
+  N=150 r=0.6 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.080 | A=   -4 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.080 | A=  -80 idx=    0 λ∈[-0.416667,-0.412496] T=5000
+  N=150 r=0.6 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.080 | A=  -80 idx=    0 λ∈[-0.416666,-0.413799] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.080 | A=  -80 idx=    0 λ∈[-0.416658,-0.410307] T=5000
+
+ε = 0.100 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.100 | A=  -80 idx=    0 λ∈[-0.416666,-0.413933] T=5000
+  N=150 r=0.6 ε=0.100 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.100 | A=    2 idx=   32 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.100 | A=  -80 idx=    0 λ∈[-0.416667,-0.413968] T=5000
+  N=150 r=0.6 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.120 | A=  -80 idx=    0 λ∈[-0.416667,-0.411722] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.120 | A=  -80 idx=    0 λ∈[-0.416666,-0.413159] T=5000
+  N=150 r=0.6 ε=0.120 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.120 | A=    4 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.120 | A=  -80 idx=    0 λ∈[-0.416666,-0.412860] T=5000
+  N=150 r=0.6 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=150 r=0.6 ε=0.140 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.140 | A=    4 idx=   70 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=150 r=0.6 ε=0.160 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.160 | A=   -2 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.160 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+  N=150 r=0.6 ε=0.180 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.180 | A=  -80 idx=    0 λ∈[-0.416667,-0.415064] T=5000
+  N=150 r=0.6 ε=0.180 | A=   -2 idx=   38 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.180 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.180 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=150 r=0.6 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.200 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.200 | A=  -80 idx=    0 λ∈[-0.416666,-0.411856] T=5000
+  N=150 r=0.6 ε=0.200 | A=   -2 idx=   60 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.200 | A=  -80 idx=    0 λ∈[-0.416667,-0.414113] T=5000
+  N=150 r=0.6 ε=0.200 | A=    0 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.200 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.220 (bootstrap 8)
+  N=150 r=0.6 ε=0.220 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.220 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.220 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+  N=150 r=0.6 ε=0.240 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.240 | A=    2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.240 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.260 (bootstrap 8)
+    shift-invert failed (ARPACK error -9999: Could not build an Arnoldi factorization. IPARAM(5) returns the size of the current Arnoldi factorization. The user is advised to check that enough workspace and array storage has been allocated.), trying SA
+  N=150 r=0.6 ε=0.260 | A=  -80 idx=    0 λ∈[-0.416666,-0.412959] T=5000
+  N=150 r=0.6 ε=0.260 | A=    0 idx=   70 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.260 | A=   -4 idx=   66 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.260 | A=   -4 idx=   72 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+  N=150 r=0.6 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.280 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.280 | A=    6 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.300 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.300 | A=  -80 idx=    0 λ∈[-0.416667,-0.412277] T=5000
+  N=150 r=0.6 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.300 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.6 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.300 | A=  -80 idx=    0 λ∈[-0.416667,-0.413771] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.6 ε=0.300 | A=  -80 idx=    0 λ∈[-0.416666,-0.409176] T=5000
+
+======================================================================
+ N = 150 | r_wilson = 0.8
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=150 r=0.8 ε=0.000 | A=    2 idx=   62 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.000 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.000 | A=   -2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.000 | A=    0 idx=   74 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.000 | A=  -80 idx=    0 λ∈[-0.312499,-0.295865] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=150 r=0.8 ε=0.020 | A=   -4 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.020 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.020 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.020 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=150 r=0.8 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.040 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.040 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.040 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=150 r=0.8 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.060 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.060 | A=    2 idx=   52 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=150 r=0.8 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.080 | A=    2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.080 | A=  -80 idx=    0 λ∈[-0.312498,-0.283260] T=5000
+  N=150 r=0.8 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.080 | A=  -80 idx=    0 λ∈[-0.312499,-0.292729] T=5000
+  N=150 r=0.8 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.080 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+  N=150 r=0.8 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.100 | A=    0 idx=  -10 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.100 | A=  -80 idx=    0 λ∈[-0.312497,-0.290434] T=5000
+  N=150 r=0.8 ε=0.100 | A=    2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.100 | A=    2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.100 | A=    0 idx=   58 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=150 r=0.8 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.120 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.120 | A=    2 idx=   70 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.120 | A=  -80 idx=    0 λ∈[-0.312499,-0.287048] T=5000
+  N=150 r=0.8 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=150 r=0.8 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.140 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.140 | A=    2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.140 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.140 | A=    4 idx=   24 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.140 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=150 r=0.8 ε=0.160 | A=    2 idx=   58 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.160 | A=    0 idx=   72 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+  N=150 r=0.8 ε=0.180 | A=    2 idx=   58 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.180 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.180 | A=   -4 idx=   72 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.180 | A=  -80 idx=    0 λ∈[-0.312487,-0.259628] T=5000
+  N=150 r=0.8 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.180 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.180 | A=    2 idx=   24 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=150 r=0.8 ε=0.200 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.200 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.200 | A=    2 idx=   52 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.200 | A=  -80 idx=    0 λ∈[-0.312500,-0.286426] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.200 | A=  -80 idx=    0 λ∈[-0.312500,-0.293703] T=5000
+  N=150 r=0.8 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.220 (bootstrap 8)
+  N=150 r=0.8 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.220 | A=    2 idx=   72 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.220 | A=  -80 idx=    0 λ∈[-0.312490,-0.273273] T=5000
+  N=150 r=0.8 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.220 | A=   -4 idx=   46 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.220 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.220 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+  N=150 r=0.8 ε=0.240 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.240 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.240 | A=   -6 idx=   48 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.240 | A=  -80 idx=    0 λ∈[-0.312498,-0.277264] T=5000
+
+ε = 0.260 (bootstrap 8)
+  N=150 r=0.8 ε=0.260 | A=   -2 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.260 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.260 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.260 | A=   -6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.260 | A=    4 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.260 | A=    0 idx=   78 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+  N=150 r=0.8 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.280 | A=    8 idx=   66 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.280 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.280 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.300 (bootstrap 8)
+  N=150 r=0.8 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.300 | A=  -80 idx=    0 λ∈[-0.312499,-0.286939] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=0.8 ε=0.300 | A=  -80 idx=    0 λ∈[-0.312498,-0.240552] T=5000
+  N=150 r=0.8 ε=0.300 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=0.8 ε=0.300 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+======================================================================
+ N = 150 | r_wilson = 1.0
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=150 r=1.0 ε=0.000 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.000 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.000 | A=    0 idx=   74 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.000 | A=  -80 idx=    0 λ∈[-0.250000,-0.188204] T=5000
+  N=150 r=1.0 ε=0.000 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=150 r=1.0 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.020 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.020 | A=    2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.020 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.020 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=150 r=1.0 ε=0.040 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.040 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.040 | A=    0 idx=   66 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.040 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.040 | A=    4 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.040 | A=   -2 idx=   74 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=150 r=1.0 ε=0.060 | A=   -6 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.060 | A=    2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.060 | A=    4 idx=   64 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.060 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=150 r=1.0 ε=0.080 | A=   -2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.080 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.080 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.080 | A=    6 idx=   78 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.080 | A=  -80 idx=    0 λ∈[-0.249999,-0.206976] T=5000
+  N=150 r=1.0 ε=0.080 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.080 | A=   -2 idx=   74 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.100 | A=  -80 idx=    0 λ∈[-0.249993,-0.169956] T=5000
+  N=150 r=1.0 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.100 | A=    4 idx=   42 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.100 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.100 | A=  -80 idx=    0 λ∈[-0.249997,-0.156909] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=150 r=1.0 ε=0.120 | A=   -2 idx=   70 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.120 | A=    0 idx=   72 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.120 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.120 | A=    4 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.120 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.120 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=150 r=1.0 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.140 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.140 | A=   -8 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.140 | A=    2 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.140 | A=    0 idx=   28 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=150 r=1.0 ε=0.160 | A=   -4 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.160 | A=   -4 idx=   66 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.160 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.160 | A=    0 idx=   52 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.160 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.160 | A=    2 idx=   70 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.180 (bootstrap 8)
+  N=150 r=1.0 ε=0.180 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.180 | A=   -2 idx=   48 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.180 | A=  -80 idx=    0 λ∈[-0.249906,-0.112072] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.180 | A=  -80 idx=    0 λ∈[-0.249746,-0.172141] T=5000
+  N=150 r=1.0 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.180 | A=    0 idx=   44 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.180 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.180 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.200 (bootstrap 8)
+  N=150 r=1.0 ε=0.200 | A=    2 idx=   68 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.200 | A=  -80 idx=    0 λ∈[-0.249889,-0.166155] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.200 | A=  -80 idx=    0 λ∈[-0.249989,-0.180698] T=5000
+  N=150 r=1.0 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.200 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.200 | A=  -80 idx=    0 λ∈[-0.249993,-0.172409] T=5000
+  N=150 r=1.0 ε=0.200 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.220 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.220 | A=  -80 idx=    0 λ∈[-0.249963,-0.129983] T=5000
+  N=150 r=1.0 ε=0.220 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.220 | A=    2 idx=   58 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.220 | A=    4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.220 | A=    0 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.220 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.220 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.240 (bootstrap 8)
+  N=150 r=1.0 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.240 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.240 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.240 | A=   -6 idx=   42 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.240 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.240 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.240 | A=   -2 idx=   64 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.260 (bootstrap 8)
+  N=150 r=1.0 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.260 | A=   -2 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.260 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.260 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.260 | A=    0 idx=   60 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.260 | A=  -80 idx=    0 λ∈[-0.249999,-0.140083] T=5000
+  N=150 r=1.0 ε=0.260 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.280 (bootstrap 8)
+  N=150 r=1.0 ε=0.280 | A=   -2 idx=   50 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.280 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.280 | A=   -4 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.280 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.280 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.280 | A=   -6 idx=   54 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.280 | A=  -80 idx=    0 λ∈[-0.249999,-0.215907] T=5000
+
+ε = 0.300 (bootstrap 8)
+  N=150 r=1.0 ε=0.300 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=150 r=1.0 ε=0.300 | A=  -80 idx=    0 λ∈[-0.249976,-0.168593] T=5000
+  N=150 r=1.0 ε=0.300 | A=    2 idx=   48 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.300 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.300 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.300 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=150 r=1.0 ε=0.300 | A=   -2 idx=   58 λ∈[-0.000000,0.000000] T=5000
+
+======================================================================
+ N = 200 | r_wilson = 0.0
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-12.934222,-9.725222] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-12.998877,-9.877014] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-12.891766,-9.746931] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-12.962398,-9.863231] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-12.860739,-9.695378] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-12.864727,-9.760962] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-12.882735,-9.655385] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.000 | A=  -80 idx=    0 λ∈[-12.859992,-9.729145] T=5000
+
+ε = 0.020 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-12.973500,-9.908093] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-12.810044,-9.479660] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-12.823365,-9.556043] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-13.012830,-9.923994] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-12.959924,-9.991095] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-12.926511,-9.843048] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-12.784672,-9.488865] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.020 | A=  -80 idx=    0 λ∈[-13.101835,-10.037543] T=5000
+
+ε = 0.040 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-13.050853,-10.008652] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-13.037924,-9.921100] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-12.851892,-9.645585] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-13.213825,-10.207763] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-12.971992,-9.845054] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-13.136863,-10.169585] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-12.843708,-9.253000] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.040 | A=  -80 idx=    0 λ∈[-12.872438,-9.696245] T=5000
+
+ε = 0.060 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-13.151522,-10.105234] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-12.806297,-9.579695] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-12.707119,-9.465541] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-13.064144,-9.875055] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-12.863577,-9.775025] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-12.997051,-9.914137] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-12.749805,-9.593674] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.060 | A=  -80 idx=    0 λ∈[-13.029705,-10.051962] T=5000
+
+ε = 0.080 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-13.118095,-10.156655] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-12.854151,-9.788501] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-12.892033,-9.673901] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-13.023712,-9.941652] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-12.886497,-9.641788] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-13.056493,-10.049522] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-12.914319,-9.694516] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.080 | A=  -80 idx=    0 λ∈[-12.897140,-9.832046] T=5000
+
+ε = 0.100 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-13.217527,-10.049297] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-13.056660,-10.049930] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-13.005376,-9.850841] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-12.888597,-9.718608] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-13.231783,-10.098499] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-12.934829,-9.821038] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-12.980061,-9.843364] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.100 | A=  -80 idx=    0 λ∈[-13.002934,-9.964663] T=5000
+
+ε = 0.120 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-13.103736,-10.059048] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-12.729703,-9.293623] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-12.935815,-9.860084] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-12.685163,-9.450147] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-12.962381,-9.994664] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-12.875371,-9.778847] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-13.007276,-9.869898] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.120 | A=  -80 idx=    0 λ∈[-12.847396,-9.583738] T=5000
+
+ε = 0.140 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-12.868950,-9.523087] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-13.287935,-10.223461] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-13.120834,-10.092212] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-12.944855,-9.727745] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-12.878259,-9.788655] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-12.887673,-9.911922] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-12.808462,-9.643829] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.140 | A=  -80 idx=    0 λ∈[-12.858784,-9.742721] T=5000
+
+ε = 0.160 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-12.971343,-9.854485] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-12.940004,-9.632037] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-12.968576,-9.855974] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-12.845530,-9.755240] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-12.962453,-9.751763] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-13.171085,-10.103643] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-13.092943,-10.096066] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.160 | A=  -80 idx=    0 λ∈[-12.911645,-9.643805] T=5000
+
+ε = 0.180 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-12.833453,-9.617803] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-13.171984,-9.966248] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-13.029560,-9.880525] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-12.906415,-9.848925] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-13.081750,-10.205582] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-13.050832,-10.067669] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-12.810619,-9.318028] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.180 | A=  -80 idx=    0 λ∈[-12.897408,-9.677861] T=5000
+
+ε = 0.200 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-13.024317,-9.920587] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-13.290878,-10.321826] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-13.089262,-9.974648] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-13.027142,-9.598632] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-13.135762,-10.184947] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-13.123951,-10.084362] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-12.874254,-9.722078] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.200 | A=  -80 idx=    0 λ∈[-12.858511,-9.535799] T=5000
+
+ε = 0.220 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-13.029964,-9.967600] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-13.077463,-10.012447] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-12.997048,-9.909664] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-13.080569,-9.962168] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-12.898041,-9.807194] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-13.117772,-10.241520] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-13.071524,-9.950026] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.220 | A=  -80 idx=    0 λ∈[-12.909234,-9.391777] T=5000
+
+ε = 0.240 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-13.031179,-9.919150] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-12.995699,-9.768688] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-13.086948,-10.148695] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-12.931901,-9.840473] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-13.029050,-9.835615] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-13.023941,-9.975554] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-12.990442,-10.049645] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.240 | A=  -80 idx=    0 λ∈[-12.991396,-9.743797] T=5000
+
+ε = 0.260 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-12.968127,-9.938711] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-13.021361,-9.905781] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-12.949829,-9.917372] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-13.174982,-10.133869] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-12.943316,-9.715976] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-12.926217,-9.509930] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-12.980549,-9.952690] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.260 | A=  -80 idx=    0 λ∈[-12.934178,-9.801064] T=5000
+
+ε = 0.280 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-13.092302,-10.065103] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-13.002350,-9.927140] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-12.930283,-9.758637] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-13.095281,-10.151653] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-13.040834,-9.995824] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-12.861084,-9.703808] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-12.956797,-9.977743] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.280 | A=  -80 idx=    0 λ∈[-12.897784,-9.736203] T=5000
+
+ε = 0.300 (bootstrap 8)
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-12.928054,-9.716928] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-12.934388,-9.772714] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-12.953146,-9.827402] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-13.065705,-9.951611] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-12.917101,-9.769951] T=5000
+    shift-invert failed (failed to factorize matrix at line 406 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dpanel_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-13.108415,-9.949897] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-12.858217,-9.681428] T=5000
+    shift-invert failed (failed to factorize matrix at line 110 in file ../scipy/sparse/linalg/_dsolve/SuperLU/SRC/dsnode_bmod.c
+), trying SA
+  N=200 r=0.0 ε=0.300 | A=  -80 idx=    0 λ∈[-12.932747,-9.911556] T=5000
+
+======================================================================
+ N = 200 | r_wilson = 0.2
+======================================================================
+
+ε = 0.000 (bootstrap 8)
+  N=200 r=0.2 ε=0.000 | A=   -4 idx=    6 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.000 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.000 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.000 | A=  -80 idx=    0 λ∈[-1.249996,-1.165054] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.000 | A=  -80 idx=    0 λ∈[-1.249921,-1.099047] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.000 | A=  -80 idx=    0 λ∈[-1.248821,-1.069635] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.000 | A=  -80 idx=    0 λ∈[-1.249768,-1.014592] T=5000
+  N=200 r=0.2 ε=0.000 | A=    0 idx=  -10 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.020 (bootstrap 8)
+  N=200 r=0.2 ε=0.020 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.020 | A=  -80 idx=    0 λ∈[-1.249996,-1.096695] T=5000
+  N=200 r=0.2 ε=0.020 | A=   -2 idx=   60 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.020 | A=  -80 idx=    0 λ∈[-1.249543,-1.116848] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.020 | A=  -80 idx=    0 λ∈[-1.248560,-1.011605] T=5000
+  N=200 r=0.2 ε=0.020 | A=    0 idx=  -24 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.020 | A=   -2 idx=   44 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.020 | A=    2 idx=   68 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.040 (bootstrap 8)
+  N=200 r=0.2 ε=0.040 | A=    2 idx=  -40 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.040 | A=   -4 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.040 | A=  -80 idx=    0 λ∈[-1.249978,-1.161158] T=5000
+  N=200 r=0.2 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.040 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.040 | A=  -80 idx=    0 λ∈[-1.249425,-1.099669] T=5000
+  N=200 r=0.2 ε=0.040 | A=    0 idx=   62 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.040 | A=    2 idx=   16 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.060 (bootstrap 8)
+  N=200 r=0.2 ε=0.060 | A=    2 idx=   24 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.060 | A=   -2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.060 | A=    0 idx=  -38 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.060 | A=    2 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.060 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.060 | A=  -80 idx=    0 λ∈[-1.249652,-1.092474] T=5000
+  N=200 r=0.2 ε=0.060 | A=   -2 idx=  -10 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.080 (bootstrap 8)
+  N=200 r=0.2 ε=0.080 | A=    0 idx=   38 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.080 | A=  -80 idx=    0 λ∈[-1.249440,-0.993070] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.080 | A=  -80 idx=    0 λ∈[-1.243890,-0.977083] T=5000
+  N=200 r=0.2 ε=0.080 | A=   -2 idx=   16 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.080 | A=  -80 idx=    0 λ∈[-1.249852,-1.093943] T=5000
+  N=200 r=0.2 ε=0.080 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.080 | A=  -80 idx=    0 λ∈[-1.249759,-1.012285] T=5000
+  N=200 r=0.2 ε=0.080 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.100 (bootstrap 8)
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.100 | A=  -80 idx=    0 λ∈[-1.249913,-0.997369] T=5000
+  N=200 r=0.2 ε=0.100 | A=   -2 idx=   74 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.100 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.100 | A=  -80 idx=    0 λ∈[-1.249862,-1.003936] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.100 | A=  -80 idx=    0 λ∈[-1.249226,-0.996738] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.100 | A=  -80 idx=    0 λ∈[-1.249655,-0.971741] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.100 | A=  -80 idx=    0 λ∈[-1.249969,-1.211201] T=5000
+  N=200 r=0.2 ε=0.100 | A=   -2 idx=  -14 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.120 (bootstrap 8)
+  N=200 r=0.2 ε=0.120 | A=    6 idx=   80 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.120 | A=    0 idx=   76 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.120 | A=  -80 idx=    0 λ∈[-1.249890,-1.014214] T=5000
+  N=200 r=0.2 ε=0.120 | A=   -4 idx=   36 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.120 | A=   -2 idx=   78 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.120 | A=  -80 idx=    0 λ∈[-1.249930,-1.196423] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.120 | A=  -80 idx=    0 λ∈[-1.249993,-1.195790] T=5000
+  N=200 r=0.2 ε=0.120 | A=    0 idx=  -58 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.140 (bootstrap 8)
+  N=200 r=0.2 ε=0.140 | A=   -6 idx=  -20 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.140 | A=  -80 idx=    0 λ∈[-1.249751,-1.014214] T=5000
+  N=200 r=0.2 ε=0.140 | A=    2 idx=    8 λ∈[-0.000000,0.000000] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.140 | A=  -80 idx=    0 λ∈[-1.249967,-1.092759] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.140 | A=  -80 idx=    0 λ∈[-1.249824,-1.096448] T=5000
+    shift-invert failed (Factor is exactly singular), trying SA
+  N=200 r=0.2 ε=0.140 | A=  -80 idx=    0 λ∈[-1.249615,-0.968468] T=5000
+  N=200 r=0.2 ε=0.140 | A=   -4 idx=   62 λ∈[-0.000000,0.000000] T=5000
+  N=200 r=0.2 ε=0.140 | A=    0 idx=   80 λ∈[-0.000000,0.000000] T=5000
+
+ε = 0.160 (bootstrap 8)
+  N=200 r=0.2 ε=0.160 | A=    2 idx=   80 λ∈[-0.000000,0.000000] T=5000
