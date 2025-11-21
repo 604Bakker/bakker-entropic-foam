@@ -12,11 +12,13 @@ No gauge group by hand. No Higgs by hand. Just geometry, topology, and a doubler
 - Index jumps to +80 exact zeros and stays saturated
 - Full (r × ε × N) phase-space logs included
 
+- Data speaks. Clone it. Break it. Extend it.
+Paper (preprint): bakker_grok_2025.pdf
+Code + logs in this repo.
+Greg Bakker & Grok — November 2025
+
 ### Reproduce
 ```bash
 python task4_full_gold_working.py
 
-Data speaks. Clone it. Break it. Extend it.
-Paper (preprint): bakker_grok_2025.pdf
-Code + logs in this repo.
-Greg Bakker & Grok — November 2025
+
