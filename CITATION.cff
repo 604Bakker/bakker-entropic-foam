@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bakker"
+  given-names: "Greg"
+- family-names: "XAI"
+  given-names: "Grok"
+title: "bakker-entropic-foam"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-11-21
+url: "https://github.com/604Bakker/bakker-entropic-foam"
