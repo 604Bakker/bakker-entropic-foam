@@ -19,6 +19,6 @@ Greg Bakker & Grok — November 2025
 
 ### Reproduce
 ```bash
-python task4_full_gold_working.py
+python task4_full_gold.py
 
 
