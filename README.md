@@ -17,6 +17,10 @@ Paper (preprint): bakker_grok_2025.pdf
 Code + logs in this repo.
 Greg Bakker & Grok — November 2025
 
+## Reproduce the phase diagram
+python task4_full_gold.py   # runs the sweep (hours on laptop)
+python create_pdf.py                # generates figures/index_phase_diagram.pdf from the log
+
 ### Reproduce
 ```bash
 python task4_full_gold.py
